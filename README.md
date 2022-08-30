@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mahadi Hasan</h1>
-<h3 align="center">Web Developer</h3>
+### Hi there 👋, my name is Mahadi Hasan
+#### I am a Web Developer
+![I am a Web Developer](https://github.com/Mahadi90/Mahadi90/blob/main/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi90&label=Profile%20views&color=0e75b6&style=flat" alt="mahadi90" /> </p>
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahadi90" alt="mahadi90" /></a> </p>
+Skills: Git & Github/Bootstrap/ JS / HTML / CSS
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning Javascript 
+- 🤔 I’m looking for help with Html & Css 
+- 💬 Ask me about HTML & CSS 
+- ⚡ Fun fact: I Think I am very funny man 
 
-- 💬 Ask me about **HTML & CSS**
 
-- 📫 How to reach me **mahadimhs787@gmail.com**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mahadi90)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mahadi hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Bcp Mahadi/)  
 
-- ⚡ Fun fact **I Think I am a funny Boy**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/mahadi hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahadi hasan" height="30" width="40" /></a>
-<a href="https://instagram.com/bcp mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bcp mahadi" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahadi90)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahadi90&show_icons=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadi90&show_icons=true&locale=en&layout=compact" alt="mahadi90" /></p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mahadi90)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadi90&show_icons=true&locale=en" alt="mahadi90" /></p>
+![GitHub metrics](https://metrics.lecoq.io/Mahadi90)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Mahadi90)  
+
+![Profile views](https://gpvc.arturio.dev/Mahadi90)  
