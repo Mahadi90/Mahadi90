@@ -6,9 +6,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Git & Github/Bootstrap/ JS / HTML / CSS
 
-- 🌱 I’m currently learning Javascript 
-- 🤔 I’m looking for help with Html & Css 
-- 💬 Ask me about HTML & CSS 
+- 🌱 I’m currently learn MERN stack development 
+- 🤔 I’m looking for help with fronend development
+- 💬 Ask me about development 
 - ⚡ Fun fact: I Think I am very funny man 
 
 
